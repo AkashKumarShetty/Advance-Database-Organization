@@ -82,10 +82,10 @@ Step 4: Type command ```./test_assign1``` if you are using a Windows machine
 
 ## Contibutions: 
 
-Write Related Methods and Makefile: ***Chirag Khandhar***
+Write Related Methods and Makefile: ***Akash K Shetty***
 
-Read Realted Methods: ***Akash Tanwani***
+Read Realted Methods: ***Aishwarya Sureban***
 
-Page Related Methods: ***Gandhali Khedlekar***
+Page Related Methods: ***Siri Chandrashekar***
 
 -----------------------------------------------------------------------------------------------------------------
